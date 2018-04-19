@@ -1,0 +1,19 @@
+{
+    "name": "slick",
+    "title": "slick",
+    "description": "A jQuery responsive touch carousel",
+    "keywords": [
+        "responsive",
+        "slider",
+        "carousel",
+        "touch",
+        "mobile"
+    ],
+    "version": "1.8.1",
+    "author": {
+        "name": "lohit"
+    },   
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
